@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jagtapkishor104
+- 👀 I’m interested in Angular Develeoper
+- 🌱 I’m currently learning Angular12
+- 📫 How to reach me mail jagtapkishor104@gmail.com
